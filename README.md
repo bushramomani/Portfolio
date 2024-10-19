@@ -3,7 +3,6 @@ This is my personal portfolio website, showcasing my web development and program
 
 ## Features
 - Projects I've worked on
-- Contact information
 
 ## Technologies Used
 - HTML
